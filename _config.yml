@@ -17,8 +17,8 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       CCR HSWS Starter Presentation
-author:      Ben Plessinger
+title:       CCR Presentation
+author:      Abby Gervase
 description: Reveal.js for Jekyll with Solarized Color theme as a base for CCR HSWS Presentations
 
 sass:
@@ -26,7 +26,7 @@ sass:
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme:     light
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
@@ -79,7 +79,7 @@ reveal:
   ## Opens links in an iframe preview overlay
   #previewLinks: false
   ## Transition style (default/cube/page/concave/zoom/linear/fade/none)
-  transition: linear
+  transition: concave
   ## Transition speed (default/fast/slow)
   #transitionSpeed: default
   ## Transition style for full page slide backgrounds (default/none/slide/concave/convex/zoom)
