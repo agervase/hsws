@@ -26,7 +26,7 @@ sass:
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     light
+  theme:     dark
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
@@ -79,7 +79,7 @@ reveal:
   ## Opens links in an iframe preview overlay
   #previewLinks: false
   ## Transition style (default/cube/page/concave/zoom/linear/fade/none)
-  transition: concave
+  transition: convex
   ## Transition speed (default/fast/slow)
   #transitionSpeed: default
   ## Transition style for full page slide backgrounds (default/none/slide/concave/convex/zoom)
